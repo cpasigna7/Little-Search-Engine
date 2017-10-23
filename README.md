@@ -1,0 +1,3 @@
+# Little-Search-Engine
+This was an assignment given to us in the class Data Structures at Rutgers University, and instructed us to implement the methods loadKeyWords, getKeyWords, mergeKeyWords, insertLastOccurrence, and top5search (descriptions of the methods can be found within LittleSearchEngine.java). This implemented a Little Search Engine that takes a set of text documents that finds and indexs keywords into each of their own hash table (Occurrence), merges these hash tables into the master hash table (keywordsIndex) containing all the keywords, searches the master hash table (keywordsIndex) and returns the top five keywords that occur the most. 
+ 
